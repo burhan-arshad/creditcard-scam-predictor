@@ -226,8 +226,8 @@ CreditCard-Predictor/
 Clone the repository:
 
 ```bash
-git clone <https://github.com/burhan-arshad24/creditcard-scam-predictor>
-cd CreditCard-Predictor
+git clone https://github.com/burhan-arshad/creditcard-scam-predictor
+cd creditcard-scam-predictor
 ```
 
 Activate the required environment:
